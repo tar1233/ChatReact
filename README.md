@@ -68,3 +68,67 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+<!-- {
+  "name": "chat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "firebase": "^8.2.0",
+    "firebase-tools": "^8.19.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+} -->
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<!-- 
+var firebaseConfig = {
+    apiKey: "AIzaSyAl_D0RN6dze09FvaOIe6RmN3Br0srC_9M",
+    authDomain: "testreact-8ea27.firebaseapp.com",
+    databaseURL: "https://testreact-8ea27-default-rtdb.firebaseio.com",
+    projectId: "testreact-8ea27",
+    storageBucket: "testreact-8ea27.appspot.com",
+    messagingSenderId: "204686015529",
+    appId: "1:204686015529:web:a52bdfe41f1c5fe485f038",
+    measurementId: "G-1S13V4MKLF"
+  }; -->
+
+
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////
